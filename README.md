@@ -1,5 +1,5 @@
 # Flourish (Summer 2021)
-Flourish is a web-application developed by Mudit Marwaha, Jennifer Chiou, Sarah Dufays, and Alizain Fatehali for the UniGlobeHacks 2.0 Hackathon in 2021. It combines Python data analysis and frontend web development to deliver companies a user-friendly method to quantify and improve its level of diversity, equity, and inclusion.
+Flourish is a web-application developed by Mudit Marwaha, Jennifer Chiou, Sarah Dufays, and Angelina Wu for the UniGlobeHacks 2.0 Hackathon in 2021. It combines Python data analysis and frontend web development to deliver companies a user-friendly method to quantify and improve its level of diversity, equity, and inclusion.
 
 ## Hello!
 
@@ -34,6 +34,4 @@ analytics are as follows:
 have done. Please be sure to fill out the survey link at the bottom of the About page
 once you are finished looking through the Analytics and Solutions pages. We would love
 your feedback!
-
-––Jennifer, Mudit, Sarah, and Alizain :)
 
